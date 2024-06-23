@@ -16,7 +16,7 @@ Pursuing M.Sc. in Data Science, I'm passionate about leveraging statistical meth
 
 ## 💼 Work Experience
 - **Data Scientist Intern @ LetsGrowMore**
-  - Aug 2023 - Jul 2025
+  - Dec 2023 - Jan 2024
   - 🤖 Developed models for handwritten digit recognition and terrorism hot-zone analysis
   - 📊 Analyzed and visualized principal business activities for Indian states
 
