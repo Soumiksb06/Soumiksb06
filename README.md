@@ -1,63 +1,51 @@
 [![Soumiksb06's GitHub | Dependencies](https://stats.quine.sh/Soumiksb06/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Soumiksb06)
 
-# 🚀 Soumik Banerjee | Data Science Enthusiast 📊
+# 🚀 Soumik Banerjee | Data Analyst & Open Source Contributor 📊
 
 ## 🌟 About Me
-Passionate about data, I embark on a journey to unravel insights from the vast realms of information. 🚀
+Pursuing M.Sc. in Data Science, I'm passionate about leveraging statistical methods and machine learning to solve real-world problems. 🚀
 
 ## 🎓 Education
 - **M.Sc. in Data Science**
   - Vellore Institute of Technology, Vellore (2023 - 2025)
+  - CGPA: 8.77/10
   
-- **B.Sc in IT (Data Science)**
+- **B.Sc in Data Science**
   - Maulana Abul Kalam Azad University Of Technology, West Bengal (2020 - 2023)
   - CGPA: 9.72/10
 
 ## 💼 Work Experience
-- **Data Science Intern @ LetsGrowMore, Virtual**
-  - Dec 2023 - Present
-  - 🤖 Building AI wonders.
-  - 📊 Analysis maestro.
-  - **Projects:** Neural Networks for Handwritten Digits, EDA on Terrorism Dataset.
+- **Data Scientist Intern @ LetsGrowMore**
+  - Aug 2023 - Jul 2025
+  - 🤖 Developed models for handwritten digit recognition and terrorism hot-zone analysis
+  - 📊 Analyzed and visualized principal business activities for Indian states
 
-- **Data Analytics Intern @ TECH-A-INTERN, Virtual**
-  - Oct 2023 - Nov 2023
-  - 📈 Crafting stories from data.
-  - **Projects:** Correlation Analysis of Customer Reviews, Uber Data Analysis.
+- **Data Analyst Intern @ Tech-A-Intern**
+  - Oct 2023 - Nov 2024
+  - 📈 Conducted state-wise business comparison and forecasting.
+  - **Projects:** Deployed a web-app on Streamlit for business data analysis.
 
-- **Data Science Intern @ Think Again Lab, Kolkata**
+- **Data Scientist Intern @ Think Again Lab, Kolkata**
   - Dec 2022 - Mar 2023
-  - 🔍 Seeking patterns in chaos.
-  - **Projects:** Speech Emotion Recognition, Uber Data Analysis, EDA on Terrorism Dataset.
-
-- **Digital Marketing Executive @ Think Again Lab, Kolkata**
-  - Mar 2022 - Mar 2023
-  - 🚀 Marketing maven.
-  - **Achievements:** Led dynamic campaigns, SEO wizardry.
+  - 🔍 Explored speech emotion recognition using LSTM.
+  - **Projects:** Achieved over 98% accuracy in TESS dataset emotion prediction.
 
 ## 🚀 Projects
-- **Speech Emotion Recognition (Jul 2022 - Apr 2023)**
-  - [Explore the Emotions](https://github.com/Soumiksb06/Data-Science-Hub/blob/main/Speech_Emotion_TESS_latst.ipynb)
+- **State-wise Business Comparison and Forecasting (Dec 2023 - Jan 2024)**
+  - [Explore Business Insights](https://github.com/Soumiksb06/Business-Comparison-and-Forecasting)
 
-- **Correlation Analysis of Customer Reviews (Aug 2023 - Sep 2023)**
-  - [Discover Correlations](https://github.com/Soumiksb06/Data-Science-Hub/tree/main/Co-relation)
+- **Generalized Medicine Recommendation with ML (Jan 2023 - Mar 2024)**
+  - [Dive into Healthcare AI](https://github.com/Soumiksb06/Generalized-Medicine-Recommendation)
+  - Built a machine learning model to predict day-to-day medicines
 
-- **Uber Data Analysis, New York (Dec 2022 - Mar 2023)**
-  - [Explore New York Patterns](https://github.com/Soumiksb06/Data-Science-Hub/tree/main/Uber%20Data%20Analysis)
-
-- **EDA on Terrorism Dataset (Dec 2023)**
-  - [Uncover Terrorism Trends](https://colab.research.google.com/drive/1fwkhuwafkR7NKEWKCBSqfquIhSWzrsGU?usp=sharing)
-
-- **Generalized Medicine Recommendation (Sep 2023 - Nov 2023)**
-  - [Dive into Healthcare AI](https://github.com/s0ul141/Generalized-Medicine-Recommendation)
-  - Recommending medicine with a sprinkle of ML magic.
+- **Speech Emotion Recognition using LSTM (Dec 2022 - Mar 2023)**
+  - [Explore Emotional AI](https://github.com/Soumiksb06/Speech-Emotion-Recognition)
 
 ## 🚀 Skills
-- 📊 Advanced proficiency in English (Written), intermediate in spoken English.
-- 💻 Intermediate skills in Python, Machine Learning, Data Analytics, and R Programming.
-- 🚀 Beginner level skills in MATLAB, SQL, and Deep Learning.
-- 📢 Digital marketing expertise, including content creation, social media campaigns, and website audit.
+- 📊 Proficient in Python, R, SQL, Power BI, Tableau, Excel, Google Sheets, and various data visualization tools.
+- 💻 Skilled in machine learning, deep learning, data analytics, and predictive analytics
+- 🚀 Experienced with TensorFlow, Statsmodels.api, and AI prompting tools like ChatGPT, Claude, and Gemini.
 
 ## 🌐 Connect with Me
 - [Explore My GitHub Universe](https://github.com/Soumiksb06)
-- [Connect on LinkedIn](https://www.linkedin.com/in/soumik-banerjee-sb6)
+- [Connect on LinkedIn](https://www.linkedin.com/in/soumikbsb6)
