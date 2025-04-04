@@ -1,4 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=Soumiksb06&color=brightgreen" alt="watching_count" />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Soumiksb06)](https://github.com/ryo-ma/github-profile-trophy)
 # 🚀 Soumik Banerjee | AI Engineer & Data Science Enthusiast
 
