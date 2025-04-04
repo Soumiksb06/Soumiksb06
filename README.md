@@ -8,7 +8,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,mysql,postgres)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow,pytorch)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow,torch)](https://github.com/Jurredr/github-widgetbox)
 
 
 # 🚀 Soumik Banerjee | AI Engineer & Data Science Enthusiast
