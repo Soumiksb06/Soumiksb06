@@ -2,9 +2,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Soumiksb06)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,tensorflow,mysql,postgres)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,sql,r)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode,cursor,docker)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,n8n,langgraph,supabase,streamlit,jupyter,mysql,postgres)](https://github.com/Jurredr/github-widgetbox)
 
