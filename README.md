@@ -15,8 +15,6 @@ I’m an AI Engineer and Data Science enthusiast dedicated to solving complex ch
   Maulana Abul Kalam Azad University of Technology, West Bengal (08/2020 - 07/2023)  
   *CGPA: 9.72/10*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumiksb06&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 ## 💼 Professional Experience
 - **Analytics & Artificial Intelligence Intern @ Pinak Idea Lab**  
   *May 2024 - Present*  
@@ -56,6 +54,8 @@ I’m an AI Engineer and Data Science enthusiast dedicated to solving complex ch
 - **Tools & Platforms:** n8n, LangGraph, Streamlit, MySQL, Supabase, Postgres  
 - **Expertise:** Data Automation, Generative AI, Prompt Engineering, Retrieval Augmented Generation (RAG), Machine Learning, Deep Learning, NLP, Data Visualization, Predictive Analytics  
 - **Soft Skills:** Collaboration, Data-Driven Decision-Making, Communication, Leadership
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumiksb06&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🌐 Connect with Me
 - [GitHub](https://github.com/Soumiksb06)
