@@ -2,7 +2,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Soumiksb06)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,sql,streamlit,tensorflow,mysql,postgres)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,sql,tensorflow,mysql,postgres)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,n8n,langgraph,supabase,streamlit,jupyter,mysql,postgres)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=transformers,tensorflow,bert,deepseek)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=streamlit)](https://github.com/Jurredr/github-widgetbox)
+
 
 # 🚀 Soumik Banerjee | AI Engineer & Data Science Enthusiast
 
@@ -33,7 +42,7 @@ I’m an AI Engineer and Data Science enthusiast dedicated to solving complex ch
 ## 🚀 Projects
 - **Generalized Medical Recommendation System using Deep Research Agent** *(Jan 2025 - Present)*  
   - Developed an autonomous AI research agent that curates and synthesizes information from a self-collected 150-person medical dataset to offer timely, reliable healthcare suggestions.  
-  - [Explore the project](https://github.com/Soumiksb06/Generalized-Medicine-Recommendation)
+  - [Explore the project]([https://github.com/Soumiksb06/MediBot-Deep-Research])
 
 - **Cold Email Generator using Llama 3.1** *(Oct 2024 - Nov 2024)*  
   - Engineered a tool with Llama 3.1, LangChain, ChromaDB, and Streamlit to automate the creation of personalized outreach emails, challenging conventional marketing methods.  
