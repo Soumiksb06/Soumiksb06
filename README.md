@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=Soumiksb06&color=brightgreen" alt="watching_count" />
 [![trophy](https://github-profile-trophy.vercel.app/?username=Soumiksb06)](https://github.com/ryo-ma/github-profile-trophy)
 # 🚀 Soumik Banerjee | AI Engineer & Data Science Enthusiast
 
@@ -26,8 +27,6 @@ I’m an AI Engineer and Data Science enthusiast dedicated to solving complex ch
   *Dec 2022 - Mar 2023*  
   - Leveraged predictive analytics with R and Tableau to forecast trends and perform correlation analysis on extensive datasets.
   - Led projects to identify emerging programming trends and optimize strategies through deep data insights.
-
-<img src="https://myreadme.vercel.app/api/embed/Soumiksb06?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## 🚀 Projects
 - **Generalized Medical Recommendation System using Deep Research Agent** *(Jan 2025 - Present)*  
