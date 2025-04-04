@@ -6,7 +6,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode,docker)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,n8n,langgraph,supabase,streamlit,jupyter,mysql,postgres)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,mysql,postgres)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=transformers,tensorflow,bert,deepseek)](https://github.com/Jurredr/github-widgetbox)
 
