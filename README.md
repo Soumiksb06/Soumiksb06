@@ -1,51 +1,60 @@
 [![Soumiksb06's GitHub | Dependencies](https://stats.quine.sh/Soumiksb06/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Soumiksb06)
 
-# 🚀 Soumik Banerjee | Data Analyst & Open Source Contributor 📊
+# 🚀 Soumik Banerjee | AI Engineer & Data Science Enthusiast
 
 ## 🌟 About Me
-Pursuing M.Sc. in Data Science, I'm passionate about leveraging statistical methods and machine learning to solve real-world problems. 🚀
+I’m an AI Engineer and Data Science enthusiast dedicated to solving complex challenges with innovative, data-driven solutions. Currently pursuing my M.Sc. in Data Science at VIT, I continuously question the status quo to build and optimize systems that not only perform but also adapt to future demands. My journey spans from developing cutting-edge deep research agents to deploying AI-powered applications that automate critical processes, always with a focus on efficiency and scalability.
 
 ## 🎓 Education
-- **M.Sc. in Data Science**
-  - Vellore Institute of Technology, Vellore (2023 - 2025)
-  - CGPA: 8.77/10
-  
-- **B.Sc in Data Science**
-  - Maulana Abul Kalam Azad University Of Technology, West Bengal (2020 - 2023)
-  - CGPA: 9.72/10
+- **M.Sc. in Data Science**  
+  Vellore Institute of Technology, Vellore (08/2023 - 05/2025)  
+  *CGPA: 8.87/10*
 
-## 💼 Work Experience
-- **Data Scientist Intern @ LetsGrowMore**
-  - Dec 2023 - Jan 2024
-  - 🤖 Developed models for handwritten digit recognition and terrorism hot-zone analysis
-  - 📊 Analyzed and visualized principal business activities for Indian states
+- **B.Sc. in IT (Data Science)**  
+  Maulana Abul Kalam Azad University of Technology, West Bengal (08/2020 - 07/2023)  
+  *CGPA: 9.72/10*
 
-- **Data Analyst Intern @ Tech-A-Intern**
-  - Oct 2023 - Nov 2024
-  - 📈 Conducted state-wise business comparison and forecasting.
-  - **Projects:** Deployed a web-app on Streamlit for business data analysis.
+## 💼 Professional Experience
+- **Analytics & Artificial Intelligence Intern @ Pinak Idea Lab**  
+  *May 2024 - Present*  
+  - Spearheading the development of an open-source deep research agent using DeepSeek R1 and Tavily, capable of generating comprehensive research reports from 50+ URLs within minutes.
+  - Automating file query and retrieval (RAG) processes through GPT-4o-mini, Gemini 2.0, Zoho, Supabase, and n8n.
+  - Engineered a Streamlit application for semantic clustering and search volume analysis—saving 61 hours and reducing API costs by 98%.
 
-- **Data Scientist Intern @ Think Again Lab, Kolkata**
-  - Dec 2022 - Mar 2023
-  - 🔍 Explored speech emotion recognition using LSTM.
-  - **Projects:** Achieved over 98% accuracy in TESS dataset emotion prediction.
+- **Data Science Intern @ Think-Again-Lab, Kolkata**  
+  *Dec 2022 - Mar 2023*  
+  - Leveraged predictive analytics with R and Tableau to forecast trends and perform correlation analysis on extensive datasets.
+  - Led projects to identify emerging programming trends and optimize strategies through deep data insights.
 
 ## 🚀 Projects
-- **State-wise Business Comparison and Forecasting (Dec 2023 - Jan 2024)**
-  - [Explore Business Insights](https://github.com/Soumiksb06/Business-Comparison-and-Forecasting)
+- **Generalized Medical Recommendation System using Deep Research Agent** *(Jan 2025 - Present)*  
+  - Developed an autonomous AI research agent that curates and synthesizes information from a self-collected 150-person medical dataset to offer timely, reliable healthcare suggestions.  
+  - [Explore the project](https://github.com/Soumiksb06/Generalized-Medicine-Recommendation)
 
-- **Generalized Medicine Recommendation with ML (Jan 2023 - Mar 2024)**
-  - [Dive into Healthcare AI](https://github.com/Soumiksb06/Generalized-Medicine-Recommendation)
-  - Built a machine learning model to predict day-to-day medicines
+- **Cold Email Generator using Llama 3.1** *(Oct 2024 - Nov 2024)*  
+  - Engineered a tool with Llama 3.1, LangChain, ChromaDB, and Streamlit to automate the creation of personalized outreach emails, challenging conventional marketing methods.  
+  - [Explore the project](https://github.com/Soumiksb06/Cold-Email-Generator)
 
-- **Speech Emotion Recognition using LSTM (Dec 2022 - Mar 2023)**
-  - [Explore Emotional AI](https://github.com/Soumiksb06/Speech-Emotion-Recognition)
+- **PyroAlert: AI-Powered Fire Detection** *(Sep 2024 - Dec 2024)*  
+  - Designed an AI-driven fire detection system using YOLO for real-time monitoring, achieving a remarkable 0.93 mAP in performance.  
+  - [Explore the project](https://github.com/Soumiksb06/PyroAlert)
 
-## 🚀 Skills
-- 📊 Proficient in Python, R, SQL, Power BI, Tableau, Excel, Google Sheets, and various data visualization tools.
-- 💻 Skilled in machine learning, deep learning, data analytics, and predictive analytics
-- 🚀 Experienced with TensorFlow, Statsmodels.api, and AI prompting tools like ChatGPT, Claude, and Gemini.
+- **State-wise Business Comparison and Forecasting** *(Jan 2024 - Jul 2024)*  
+  - Built a dynamic Streamlit application to visualize and forecast business activities across 28 Indian states using ARIMA, driving smarter decision-making.  
+  - [Explore the project](https://github.com/Soumiksb06/Business-Comparison-and-Forecasting)
+
+- **Speech Emotion Recognition using LSTM** *(Dec 2022 - Apr 2023)*  
+  - Pioneered an LSTM-based model in TensorFlow to analyze speech emotions, achieving a 98% accuracy on the Toronto Emotion Speech Set, questioning and refining emotion detection methodologies.  
+  - [Explore the project](https://github.com/Soumiksb06/Speech-Emotion-Recognition)
+
+## 🚀 Skills & Tools
+- **Programming Languages:** Python, SQL  
+- **Frameworks & Libraries:** TensorFlow, Transformers, GPT, Gemini, Llama, DeepSeek, BERT  
+- **Tools & Platforms:** n8n, LangGraph, Streamlit, MySQL, Supabase, Postgres  
+- **Expertise:** Data Automation, Generative AI, Prompt Engineering, Retrieval Augmented Generation (RAG), Machine Learning, Deep Learning, NLP, Data Visualization, Predictive Analytics  
+- **Soft Skills:** Collaboration, Data-Driven Decision-Making, Communication, Leadership
 
 ## 🌐 Connect with Me
-- [Explore My GitHub Universe](https://github.com/Soumiksb06)
-- [Connect on LinkedIn](https://www.linkedin.com/in/soumikbsb6)
+- [GitHub](https://github.com/Soumiksb06)
+- [LinkedIn](https://www.linkedin.com/in/soumikbsb6)
+- [Kaggle](https://www.kaggle.com/soumiksb06)
