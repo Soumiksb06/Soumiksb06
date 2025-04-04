@@ -12,7 +12,9 @@ I’m an AI Engineer and Data Science enthusiast dedicated to solving complex ch
 - **B.Sc. in IT (Data Science)**  
   Maulana Abul Kalam Azad University of Technology, West Bengal (08/2020 - 07/2023)  
   *CGPA: 9.72/10*
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumiksb06&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumiksb06&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## 💼 Professional Experience
 - **Analytics & Artificial Intelligence Intern @ Pinak Idea Lab**  
   *May 2024 - Present*  
@@ -24,6 +26,8 @@ I’m an AI Engineer and Data Science enthusiast dedicated to solving complex ch
   *Dec 2022 - Mar 2023*  
   - Leveraged predictive analytics with R and Tableau to forecast trends and perform correlation analysis on extensive datasets.
   - Led projects to identify emerging programming trends and optimize strategies through deep data insights.
+
+<img src="https://myreadme.vercel.app/api/embed/Soumiksb06?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## 🚀 Projects
 - **Generalized Medical Recommendation System using Deep Research Agent** *(Jan 2025 - Present)*  
