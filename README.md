@@ -1,4 +1,3 @@
-[![Soumiksb06's GitHub | Dependencies](https://stats.quine.sh/Soumiksb06/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Soumiksb06)
 
 # 🚀 Soumik Banerjee | AI Engineer & Data Science Enthusiast
 
